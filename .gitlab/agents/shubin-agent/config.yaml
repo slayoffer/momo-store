@@ -1,0 +1,3 @@
+ci_access:
+  projects:
+    - id: std-012-042/momo-store
